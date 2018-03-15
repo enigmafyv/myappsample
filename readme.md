@@ -1,2 +1,2 @@
-#My App
+#MyApp
 example tutorial sample app
